@@ -1,11 +1,9 @@
 img{
     max-width: 4rem;
-    display: inline-block;
     margin-top: .2rem;
     border-radius: 50%;
     float: right;
 }
 h1{
     margin: auto 0.5rem;
-    display: inline-block;
 }
